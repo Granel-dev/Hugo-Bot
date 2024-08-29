@@ -16,7 +16,7 @@ st.markdown("""
             border:1px solid gray;
             border-radius: 10px;
             }
-          @media screen and (min-width: 200px){
+          @media screen and (min-width: 200px) and (max-width: 500px) {
             .con {
             width:280px;
             height: 170px;
